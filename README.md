@@ -22,28 +22,28 @@ Adding all resolved problems to success page, showing the progress of the portal
 
 Homepage:
 
-![picture alt](https://github.com/kunjmehta/Localhost-404/blob/master/screenshots/Homepage.PNG "Homepage")
+![picture alt](https://github.com/greevashah/Localhost-404/blob/master/screenshots/Homepage.PNG "Homepage")
 
 Login
 
-![picture alt](https://github.com/kunjmehta/Localhost-404/blob/master/screenshots/Loginpage.PNG "Login")
+![picture alt](https://github.com/greevashah/Localhost-404/blob/master/screenshots/Loginpage.PNG "Login")
 
 Register
 
-![picture alt](https://github.com/kunjmehta/Localhost-404/blob/master/screenshots/Registerpage.PNG "Register")
+![picture alt](https://github.com/greevashah/Localhost-404/blob/master/screenshots/Registerpage.PNG "Register")
 
 List of problems
 
-![picture alt](https://github.com/kunjmehta/Localhost-404/blob/master/screenshots/ListOfProblems.PNG "List of problems")
+![picture alt](https://github.com/greevashah/Localhost-404/blob/master/screenshots/ListOfProblems.PNG "List of problems")
 
 Map of affected areas
 
-![picture alt](https://github.com/kunjmehta/Localhost-404/blob/master/screenshots/Map%20of%20affected%20areas.PNG
+![picture alt](https://github.com/greevashah/Localhost-404/blob/master/screenshots/Map%20of%20affected%20areas.PNG
  "Map of affected areas")
  
  Problem Details
  
- ![picture alt]( https://github.com/kunjmehta/Localhost-404/blob/master/screenshots/Problem%20Details.PNG
+ ![picture alt]( https://github.com/greevashah/Localhost-404/blob/master/screenshots/Problem%20Details.PNG
  "Problem Details")
 
 New Problem Form
@@ -53,5 +53,5 @@ New Problem Form
  
  Add a problem only after logging in
  
-  ![picture alt](https://github.com/kunjmehta/Localhost-404/blob/master/screenshots/Add%20a%20problem%20after%20logging%20in.PNG
+  ![picture alt](https://github.com/greevashah/Localhost-404/blob/master/screenshots/Add%20a%20problem%20after%20logging%20in.PNG
  "New Problem Form")
